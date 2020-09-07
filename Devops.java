@@ -15,7 +15,7 @@ public class Devops {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Good Morning Vietnam");
+        System.out.println("Hello World");
     }
     
     public void HelloWorld(){
